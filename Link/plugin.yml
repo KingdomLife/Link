@@ -1,0 +1,6 @@
+main: com.ewm2000.main.main
+name: Link
+version: 1.0
+author: ewm2000
+description: A plugin that allows staff to view necesarry things on a website.
+commands: 
