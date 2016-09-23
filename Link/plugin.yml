@@ -3,4 +3,5 @@ name: Link
 version: 1.0
 author: ewm2000
 description: A plugin that allows staff to view necesarry things on a website.
+database: yes 
 commands: 
