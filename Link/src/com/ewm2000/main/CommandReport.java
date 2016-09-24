@@ -24,6 +24,8 @@ public class CommandReport implements CommandExecutor {
 			
 			if(args.length == 1){
 				
+				p.sendMessage(ChatColor.GREEN +"Thank you for your response.");
+				return true;
 			}
 		}
 		return true;
