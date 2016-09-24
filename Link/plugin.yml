@@ -5,3 +5,6 @@ author: ewm2000
 description: A plugin that allows staff to view necesarry things on a website.
 database: yes 
 commands: 
+  report:
+    description: Sends a report
+    usage: /report
